@@ -2,7 +2,7 @@
 
 Repo for spring boot
 
-To use
+## To use
 
 ```shell
 git clone git@github.com:Swetabh333/Knowly.git
